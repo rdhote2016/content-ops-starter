@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: RISHABH DHOTE
+      text: WEB-DESIGNER
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
