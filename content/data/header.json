@@ -31,7 +31,7 @@
             "label": "Get started",
             "altText": "",
             "url": "/contect",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
