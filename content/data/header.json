@@ -30,7 +30,7 @@
             "label": "Contect",
             "altText": "Contect ",
             "links": [],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
