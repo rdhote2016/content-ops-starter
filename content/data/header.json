@@ -28,7 +28,7 @@
         },
         {
             "label": "Contect us",
-            "altText": "Contect us",
+            "altText": "Contect ",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
