@@ -5,7 +5,8 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
+                    "mr-3",
+                    "ml-14"
                 ],
                 "padding": [
                     "pl-1",
