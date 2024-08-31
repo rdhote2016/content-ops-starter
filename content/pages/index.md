@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome in
+      label: Welcome to our website...
       color: text-primary
       type: Badge
     elementId: ''
