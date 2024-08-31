@@ -1,23 +1,4 @@
 {
-    "logo": {
-        "url": "/images/f7f15230-e370-49f2-8e23-868cde71439e.jpeg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3",
-                    "ml-14"
-                ],
-                "padding": [
-                    "pl-1",
-                    "pt-4",
-                    "pr-3",
-                    "pb-6"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
