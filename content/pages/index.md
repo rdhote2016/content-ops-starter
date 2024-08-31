@@ -7,7 +7,7 @@ sections:
       text: WEB-DESIGNER
       color: text-dark
       type: TitleBlock
-    subtitle: 'Crafting Beautiful, Responsive Websites That Drive Results'
+    subtitle: 'Crafting Beautiful, Responsive Website'
     text: >+
       I believe that your website is more than just a digital presence—it's a
       powerful tool to engage your audience and grow your business. Whether
