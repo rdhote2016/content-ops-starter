@@ -7,13 +7,12 @@ sections:
       text: WEB-DESIGNER
       color: text-dark
       type: TitleBlock
-    subtitle: 'Crafting Beautiful, Responsive Websites That Drive Results'
-    text: >+
+    subtitle: 'Crafting Beautiful, Responsive Website'
+    text: >
       I believe that your website is more than just a digital presence—it's a
-      powerful tool to engage your audience and grow your business. Whether
-      you’re a small startup or an established brand, I’m here to help you
-      create a stunning, user-friendly website that reflects your unique vision.
-
+      powerful tool to engage your audience and grow your business, I’m here to
+      help you create a stunning, user-friendly website that reflects your
+      unique vision.
     actions:
       - label: Get started
         altText: ''
@@ -39,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome in
+      label: Welcome to our website...
       color: text-primary
       type: Badge
     elementId: ''
