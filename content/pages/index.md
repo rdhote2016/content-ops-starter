@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Crafting Beautiful, Responsive Websites That Drive Results'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      I believe that your website is more than just a digital presence—it's a
+      powerful tool to engage your audience and grow your business. Whether
+      you’re a small startup or an established brand, I’m here to help you
+      create a stunning, user-friendly website that reflects your unique vision.
+
     actions:
       - label: Get started
         altText: ''
