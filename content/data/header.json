@@ -1,14 +1,4 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
@@ -37,34 +27,9 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "label": "Contect us",
+            "altText": "Contect us",
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
@@ -89,6 +54,7 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "colors": "bg-dark-fg-light",
+    "type": "Header",
+    "title": ""
 }
