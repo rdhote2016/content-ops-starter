@@ -25,17 +25,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/contect",
-            "showIcon": true,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
